@@ -44,10 +44,9 @@ The contributions are relevant for the scientific NLP community and are outstand
 
 
 ### Acknowledgements
-[Marco Stranisci](https://www.unito.it/persone/mstranis)
-[Alessandra Urbinati](https://www.networkscienceinstitute.org/people/alessandra-urbinati)
-[Arthur Thomas Edward Capozzi Lupi](https://www.unito.it/persone/acapozzi)
-[Mirko Lai](http://www.di.unito.it/~lai/)
-[Simona Frenda](https://www.unito.it/persone/sfrenda)
-[Alessandra T. Cignarella](https://www.unito.it/persone/acignare)
-
+* [Marco Stranisci](https://www.unito.it/persone/mstranis)
+* [Alessandra Urbinati](https://www.networkscienceinstitute.org/people/alessandra-urbinati)
+* [Arthur Thomas Edward Capozzi Lupi](https://www.unito.it/persone/acapozzi)
+* [Mirko Lai](http://www.di.unito.it/~lai/)
+* [Simona Frenda](https://www.unito.it/persone/sfrenda)
+* [Alessandra T. Cignarella](https://www.unito.it/persone/acignare)
