@@ -4,6 +4,9 @@ In this repository are collected and organized some of the most relevant project
 
 The contributions are relevant for the scientific NLP community and are outstanding state-of-the-art methodologies
 
+## Debunker-Assistant: An AI tool, co-designed with non-expert citizens, for searching and exploring profiles of online misinformation spread by news articles
+* DEMO: https://debunker.aequa-tech.com/
+
 
 ## CODE FOR TEXTUAL CLASSIFICATION
 * https://github.com/mirkolai/textClassification
