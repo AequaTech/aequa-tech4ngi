@@ -6,6 +6,7 @@ The contributions are relevant for the scientific NLP community and are outstand
 
 ## Debunker-Assistant: An AI tool, co-designed with non-expert citizens, for searching and exploring profiles of online misinformation spread by news articles
 * DEMO: https://debunker.aequa-tech.com/
+* pilot dataset: https://github.com/AequaTech/aequa-tech4ngi/blob/main/pilot_dataset_debunker-aequa-tech.zip
 
 
 ## CODE FOR TEXTUAL CLASSIFICATION
